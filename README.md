@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul47&label=Profile%20views&color=0e75b6&style=flat" alt="mridul47" /> </p>
 
-- 💬 Ask me about **react, java, typescript, python, Js, Kotlin, Cloud Services, databases and many more**
+- 💬 Ask me about **data analysis, data visualization, SQL, Python, Excel, Power BI, Tableau, business intelligence, statistics, data modeling, and many more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
